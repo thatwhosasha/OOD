@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# IntelliSense
+*.vcxproj.user
+*.vcxproj.filters
+
+# Compiled Object files
+*.o
+*.obj
+*.pch
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.idb
+*.ipdb
+
+# Output files
+output.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
